@@ -1,5 +1,5 @@
 # WebAppVS
 ## Zweck
 Dieses Repository dient als einfacher
-**erster Prototyp** für das Layour
+**erster Prototyp** fÃ¼r das Layout
 von Lebensmittelretter.de von Visual Studio aus.
